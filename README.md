@@ -29,6 +29,7 @@ FYP2026-WomenViolence/
 ├── Finalcodev1.txt
 ├── emotion_model.h5
 ├── best_mobilenet_gender_model.pth
+|-- attention_fusion_model.pth
 ├── README.md
 Violence Detection Model (Large File)
 
@@ -43,7 +44,7 @@ Place it in the same directory as Finalcodev1.txt
 Installation
 pip install torch torchvision transformers tensorflow opencv-python scipy pillow
 Run the Project
-python Finalcodev1.txt
+python Integratedcodev2.txt
 
 Or in a notebook:
 
